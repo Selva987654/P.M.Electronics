@@ -1,0 +1,8 @@
+{
+  "name": "P.M.Electronics",
+  "description": "A comprehensive management system for electrical shops to track employees, work orders, payments, and site photos with real-time analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
